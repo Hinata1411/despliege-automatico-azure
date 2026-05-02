@@ -2,7 +2,10 @@
   "name": "despliegue-automatico-azure",
   "version": "1.0.0",
   "scripts": {
+    "start": "node server.js",
     "build": "echo 'Sitio estático listo'"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
