@@ -1,0 +1,8 @@
+{
+  "name": "despliegue-automatico-azure",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Sitio estático listo'"
+  },
+  "dependencies": {}
+}
